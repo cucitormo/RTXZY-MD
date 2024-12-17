@@ -29,9 +29,9 @@ global.APIs = {
   btc: 'https://api.botcahx.eu.org'
 }
 
-//ini tidak di isi juga tidak apa-apa
+// Isi apikey di sini
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'APIKEY' 
+  'https://api.botcahx.eu.org': 'APIKEY' // Wajib isi ini juga
 }
 
 let fs = require('fs')
