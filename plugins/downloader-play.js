@@ -4,6 +4,7 @@ let fetch = require('node-fetch');
 let handler = async (m, { conn, text, usedPrefix }) => {
     if (!text) throw 'Enter Title / Link From YouTube!';
     try {
+        await m.reply(wait)
         const look = await search(text);
         const convert = look.videos[0];
         if (!convert) throw 'Video/Audio Tidak Ditemukan';
