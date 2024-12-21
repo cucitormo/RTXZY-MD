@@ -1,8 +1,8 @@
 global.owner = ['6285664221805']  
-global.mods = ['628566422180'] 
-global.prems = ['628566422180']
+global.mods = ['6285664221805'] 
+global.prems = ['6285664221805']
 global.nameowner = 'Risk.'
-global.numberowner = '628566422180' 
+global.numberowner = '6285664221805' 
 global.mail = 'support@tioprm.eu.org' 
 global.gc = '-'
 global.instagram = 'https://instagram.com/garisk_pr'
