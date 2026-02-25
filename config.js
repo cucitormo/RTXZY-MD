@@ -1,10 +1,10 @@
 require("dotenv").config();
 
-global.owner = ["62895331520602"]; // wajib di isi tidak boleh kosong
-global.mods = ["62895331520602"]; // wajib di isi tidak boleh kosong
-global.prems = ["62895331520602"]; // wajib di isi tidak boleh kosong
+global.owner = ["6285645079743"]; // wajib di isi tidak boleh kosong
+global.mods = ["6285645079743"]; // wajib di isi tidak boleh kosong
+global.prems = ["6285645079743"]; // wajib di isi tidak boleh kosong
 global.nameowner = "Tio"; // wajib di isi tidak boleh kosong
-global.numberowner = "62895331520602"; // wajib di isi tidak boleh kosong
+global.numberowner = "6285645079743"; // wajib di isi tidak boleh kosong
 global.mail = "support@tioprm.eu.org"; // wajib di isi tidak boleh kosong
 global.gc = "https://chat.whatsapp.com/I5RpePh2b5u37OyFjzCNTr"; // wajib di isi tidak boleh kosong
 global.instagram = "https://instagram.com/prm2.0"; // wajib di isi tidak boleh kosong
